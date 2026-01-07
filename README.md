@@ -37,6 +37,13 @@ Advanced educational modules for circuit simplification:
 
 ---
 
+## 👥 Contributors
+
+This project was developed through a collaborative effort by:
+
+- **Manahil Shahzad**
+- **Amreeha Eman**
+
 ## 🚀 Deployment & Installation
 
 ### Compilation
